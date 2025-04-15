@@ -23,9 +23,9 @@ if __name__ == "__main__" :
     )
     app = pyrogram.Client(
         "Zee5",
-        bot_token=Config.TG_BOT_TOKEN,
-        api_id=Config.APP_ID,
-        api_hash=Config.API_HASH,
+        bot_token=Config.7909324217:AAHAYG2KoMR47pcOowkd_3jr09U_B2ezgXs,
+        api_id=Config.23617515,
+        api_hash=Config.9568aa2638f7002e5b7af5971430adad,
         plugins=plugins
     )
     Config.AUTH_USERS.add(680815375)
